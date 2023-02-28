@@ -1,6 +1,6 @@
 # aplicativo-que-gera-conselhos-aleat-rios
 aplicativo que gera conselhos aleatórios, html e css. Depois o JS será adicionado
-![image](https://user-images.githubusercontent.com/1249359
+
 
 
 🚀 Tecnologias
